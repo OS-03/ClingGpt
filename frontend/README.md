@@ -1,5 +1,8 @@
-# React + TypeScript + Vite
+# ClingGpt
+A comprehensive ChatBot Based OpenAI.Here, User can chat we the AI-chabot , history is saved, sorted and details of each chat context is retrieved from Mongo-DB Database.Frontend build on React using Vite and Backend using Express.
 
+
+# React + TypeScript + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
